@@ -148,8 +148,9 @@ main {
 .facts {
   margin-top: 160px;
 }
-.fact-des{
+.fact-des {
   width: 38%;
+  margin-top: 24px;
 }
 .facts-card-container {
   display: flex;
